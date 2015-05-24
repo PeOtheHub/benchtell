@@ -1,4 +1,4 @@
-# Benchtell &nbsp; //benchtell.com(https://benchtell.com/app)
+# Benchtell &nbsp; // [benchtell.com](https://benchtell.com/app)
 
 #### Your best friend in agrement management
 
